@@ -1,5 +1,5 @@
 from django.db import models
-from uuid4 import uuid4
+from uuid import uuid4
 
 # Create your models here.
 
