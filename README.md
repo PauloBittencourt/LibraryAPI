@@ -25,7 +25,7 @@ This project was developed using cutting edge back-end technologies.
 
 ### Requirements
 
-- You need to install both [Python](https://www.python.org/downloads/) and [Yarn](https://yarnpkg.com/) to run this project.
+- You need to install both [Python](https://www.python.org/downloads/) and [Pip](https://pypi.org/project/pip/) to run this project.
 
 **Clone the project and access the folder**
 
